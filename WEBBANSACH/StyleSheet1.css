@@ -1,0 +1,199 @@
+﻿*{
+    text-decoration: none;
+}
+
+
+
+body {
+    margin: auto;
+    font-size:16px;
+    
+}
+
+#outer {
+    width: 1300px;
+    margin: auto;
+    background-color: #34495e;
+    height: 800px;
+}
+
+
+#banner {
+    background: url(Hinh/sannha.png);
+    width:1300px;
+    height: 70px;
+    
+    
+
+}
+
+
+#menu {
+    background-color: #95a5a6;
+    padding: 5px;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+    #menu a {
+        border: 1px solid #8e44ad;
+        padding: 5px;
+        border-radius: 12px;
+        color: white;
+        font-weight: bold;
+        background-color: #34495e;
+    }
+
+        #menu a:hover {
+            background-color: #8e44ad;
+        }
+
+#Button1 {
+    background-color: #34495e;
+    color: white;
+    border: 1px solid #8e44ad;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+    #Button1:hover {
+        background-color: #8e44ad;
+    }
+
+#TextBox1 {
+    border-radius: 12px;
+}
+
+
+#content {
+    width: 1300px;
+    height: 680px;
+}
+
+#left {
+    width: 300px;
+    height: 700px;
+    float: left;
+}
+
+.label1 {
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+    #left a {
+        
+        border: 1px solid #8e44ad;
+        display: block;
+        padding: 12px 30px;
+        border-radius: 12px;
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        background-color: #34495e;
+        text-align: center;
+    }
+
+    #left ul li {
+        list-style-type: none;
+        height:30px;
+    }
+
+        #left a:hover {
+            background-color: #8e44ad;
+            
+        }
+
+#right {
+    width: 500px;
+    height: 700px;
+    float:right;
+    padding: 5px;
+    
+}
+
+
+
+#Button2{
+    background-color: #34495e;
+    color: white;
+    border: 1px solid #8e44ad;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+    #Button2:hover {
+        background-color: #8e44ad;
+    }
+
+.label2 {
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+#mid {
+    width: 500px;
+    height: 700px;
+    margin: auto;
+}
+
+
+    #mid a {
+        text-decoration: none;
+        
+    }
+
+.ButtonNe {
+    background-color: #34495e;
+    color: white;
+    border: 1px solid #8e44ad;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+    .ButtonNe:hover {
+        background-color: #8e44ad;
+    }
+
+
+
+#Button3 {
+    background-color: #34495e;
+    color: white;
+    border: 1px solid #8e44ad;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+#Button3:hover {
+        background-color: #8e44ad;
+    }
+
+#Button4 {
+    background-color: #34495e;
+    color: white;
+    border: 1px solid #8e44ad;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+    #Button4:hover {
+        background-color: #8e44ad;
+    }
+
+
+#footer {
+    background: url(Hinh/sannha.png);
+    width:1300px;
+    height: 70px;
+    bottom: 0px auto;
+}

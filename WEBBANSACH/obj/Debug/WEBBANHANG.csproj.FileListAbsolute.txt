@@ -1,0 +1,4 @@
+C:\Users\OS\Desktop\New folder\ASP-project-master\WEBBANSACH\obj\Debug\WEBBANHANG.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\New folder\ASP-project-master\WEBBANSACH\obj\Debug\WEBBANSACH.dll
+C:\Users\OS\Desktop\New folder\ASP-project-master\WEBBANSACH\obj\Debug\WEBBANSACH.pdb
+C:\Users\OS\Desktop\New folder\ASP-project-master\WEBBANSACH\obj\Debug\WEBBANHANG.csprojAssemblyReference.cache
